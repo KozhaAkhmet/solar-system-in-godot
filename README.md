@@ -30,7 +30,7 @@ In this Solar System Simulation, you can:
 ## Installation
 
 - __Release Packages:__ 
-  You can directly install build files. They are available [here]() for Windows and Linux.
+  You can directly install build files. They are available [here](https://github.com/KozhaAkhmet/solar-system-in-godot/releases/tag/0.1) for Windows and Linux.
 
 - __Source Code:__
   Also you can clone source code and export it to desired OS. You can check up on exporting in [Godot DOCS](https://docs.godotengine.org/en/stable/tutorials/export/exporting_projects.html)
