@@ -1,0 +1,22 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Asset/Sci-Fi Game Icons/Hex/slice37.png" type="Texture" id=1]
+
+[node name="PredictionControl" type="Node2D"]
+position = Vector2( 0, -94 )
+
+[node name="Button" type="Button" parent="."]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -22.1393
+margin_top = -24.8458
+margin_right = 199.861
+margin_bottom = 221.154
+rect_scale = Vector2( 0.2, 0.2 )
+icon = ExtResource( 1 )
+flat = true
+__meta__ = {
+"_edit_use_anchors_": false
+}

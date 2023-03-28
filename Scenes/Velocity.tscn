@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="Curve" id=1]
+_data = [ Vector2( 0, 0 ), 0.0, 0.0, 0, 0, Vector2( 0.92, 0.881818 ), 0.0, 0.0, 0, 0 ]
+
+[node name="Acceleration" type="Line2D"]
+width_curve = SubResource( 1 )
+default_color = Color( 1, 0, 0, 1 )

@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Scripts/Line2D.gd" type="Script" id=1]
+
+
+[sub_resource type="Curve" id=53]
+_data = [ Vector2( 0, 0.190909 ), 0.0, 0.0, 0, 0, Vector2( 1, 0.631818 ), 0.0, 0.0, 0, 0 ]
+
+[node name="Line2D" type="Line2D"]
+show_behind_parent = true
+points = PoolVector2Array( -0.100555, 0.62326 )
+width = 20.0
+width_curve = SubResource( 53 )
+default_color = Color( 0.454902, 0.54902, 0.592157, 1 )
+script = ExtResource( 1 )
+length = 400
