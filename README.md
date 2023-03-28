@@ -1,4 +1,4 @@
-#Solar System Simulator 
+# Solar System Simulator 
 
 ## Features
 In this Solar System Simulation, you can:
@@ -16,7 +16,7 @@ In this Solar System Simulation, you can:
 ![Solar Planet Simulator Gif](Pictures/gif.gif)
 
  Until June, I am planning to add features like:
-  - Adding / deleting planets
+  - Adding/deleting planets
   - Multi-selection
   - Save and load scenes from json
 
