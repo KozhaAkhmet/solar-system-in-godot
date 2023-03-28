@@ -13,7 +13,7 @@ In this Solar System Simulation, you can:
 ## About
   Simulation's key formula is Newton's law of Universal Gravitation. This simulation not references real-life solar system, but can be used for educational purposes. 
 
-![Solar Planet Simulator Gif](Pictures/untitled.gif)
+![Solar Planet Simulator Gif](Pictures/gif.gif)
 
  Until June, I am planning to add features like:
   - Adding / deleting planets
