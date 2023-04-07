@@ -34,7 +34,7 @@ In this Solar System Simulation, you can:
 
 - __Source Code:__
   Also you can clone source code and export it to desired OS. You can check up on exporting in [Godot DOCS](https://docs.godotengine.org/en/stable/tutorials/export/exporting_projects.html)
-  **This project was made on 3.2.1 version of Godot Editor. Otherwise, it will cause unpredictable behavior.**
+  **This project was made on 3.2.3 version of Godot Editor. Please open this project with the correct version otherwise, it will cause unpredictable behavior.**
 
 
 ## References:
