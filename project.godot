@@ -79,6 +79,7 @@ common/physics_fps=100
 
 [rendering]
 
+quality/driver/driver_name="GLES2"
 threads/thread_model=2
 limits/buffers/canvas_polygon_buffer_size_kb=600
 limits/buffers/canvas_polygon_index_buffer_size_kb=600
