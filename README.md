@@ -12,6 +12,7 @@ In this Solar System Simulation, you can:
 
 ## About
   Simulation's key formula is Newton's law of Universal Gravitation. This simulation not references real-life solar system, but can be used for educational purposes. 
+  
   Interested? You can try out at [ithi.io](https://kozhaakhmet.itch.io/solar-system-simulator)
 
 ![Solar Planet Simulator Gif](Pictures/gif.gif)
